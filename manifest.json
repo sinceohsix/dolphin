@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "games": {
+    "SMNE01": { "version": 1, "title": "New Super Mario Bros. Wii" },
+    "R7PE01": { "version": 1, "title": "Punch-Out!!" },
+    "R8PE01": { "version": 1, "title": "Super Paper Mario"}
+  }
+}
