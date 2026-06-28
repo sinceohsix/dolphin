@@ -1,0 +1,13 @@
+{
+  "id": "R7PE01",
+  "name": "Punch-Out!!",
+  "version": 1,
+  "players": 2,
+  "controllers": {
+    "macos": [
+      "DualSense Wireless Controller",
+      "Nintendo Switch Pro Controller",
+      "Xbox Series X Controller"
+    ]
+  }
+}
