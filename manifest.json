@@ -1,8 +1,9 @@
 {
   "version": 1,
   "games": {
-    "SMNE01": { "version": 1, "title": "New Super Mario Bros. Wii" },
-    "R7PE01": { "version": 1, "title": "Punch-Out!!" },
-    "R8PE01": { "version": 1, "title": "Super Paper Mario"}
+    "SMNE01": { "version": 1, "title": "New Super Mario Bros. Wii", "id": "SMNE01", "players": 4 },
+    "R7PE01": { "version": 1, "title": "Punch-Out!!", "id": "R7PE01", "players": 2 },
+    "R8PE01": { "version": 1, "title": "Super Paper Mario", "id": "R8PE01", "players": 1 },
+    "SF8E01": { "version": 1, "title": "Donkey Kong Country Returns", "id": "SF8E01", "players": 2 }
   }
 }
