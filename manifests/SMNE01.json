@@ -1,0 +1,15 @@
+{
+  "id": "SMNE01",
+  "name": "New Super Mario Bros. Wii",
+  "version": 1,
+  "players": 4,
+  "controllers": {
+    "macos": [
+      "DualSense Wireless Controller",
+      "Nintendo Switch Pro Controller",
+      "Xbox Series X Controller",
+      "8BitDo SN30 Pro",
+      "Nintendo Switch Joy-Con (Pair)"
+    ]
+  }
+}
