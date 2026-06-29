@@ -4,7 +4,7 @@
   "note": "Left and right punches/uppercuts are mapped to the triggers and bumpers.", 
   "note_motion": "Game doesn't require motion controls.",
   "mappings": [
-    { "action": "Move Cursor", "wii": "a", "controller": ["rstick", "rstick", "rstick"] },
+    { "action": "Move Cursor", "wii": "pointer", "controller": ["rstick", "rstick", "rstick"] },
     { "action": "Select", "wii": "a", "controller": ["cross", "a", "a"] },
     { "action": "Back", "wii": "b", "controller": ["circle", "b", "b"] },
     { "action": "Punch", "wii": "1/2", "controller": ["l2/r2", "lt/rt", "zl/zr"] },
