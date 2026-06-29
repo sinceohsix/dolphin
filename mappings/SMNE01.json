@@ -7,7 +7,7 @@
     { "wii": "a", "controller": ["triangle", "y", "x"] },
     { "wii": "1", "controller": ["square", "x", "a"] },
     { "wii": "2", "controller": ["cross", "a", "b"] },
-    { "wii": "dpad", "controller": ["", "y", "x"] }
+    { "wii": "dpad", "controller": ["rstick/dpad", "rstick/dpad", "rstick/dpad"] }
   ],
   "motion": [
     { "wii": "Tilt", "controllers": ["L2/R2", "LT/RT", "ZL/ZR"] },
