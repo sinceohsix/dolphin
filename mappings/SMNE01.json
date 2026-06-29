@@ -4,10 +4,10 @@
   "note": "", 
   "note_motion": "Motion is available for Playstation and Nintendo Switch controllers.",
   "mappings": [
-    { "wii": "a", "controller": ["triangle", "y", "x"] },
-    { "wii": "1", "controller": ["square", "x", "a"] },
-    { "wii": "2", "controller": ["cross", "a", "b"] },
-    { "wii": "dpad", "controller": ["rstick/dpad", "rstick/dpad", "rstick/dpad"] }
+    { "action": "View Map/Bubble (Multiplayer)", "wii": "a", "controller": ["triangle", "y", "x"] },
+    { "action": "Back/View Power-Ups (on world map)/Run (hold)", "wii": "1", "controller": ["square", "x", "a"] },
+    { "action": "Select/Start Level/Jump", "wii": "2", "controller": ["cross", "a", "b"] },
+    { "action": "Navigate UI/Move", "wii": "dpad", "controller": ["rstick/dpad", "rstick/dpad", "rstick/dpad"] }
   ],
   "motion": [
     { "wii": "Tilt", "controllers": ["L2/R2", "LT/RT", "ZL/ZR"] },
