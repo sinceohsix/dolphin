@@ -1,0 +1,16 @@
+{
+  "id": "SMNE01",
+  "type": "sideways",
+  "note": "", 
+  "note_motion": "Motion is available for Playstation and Nintendo Switch controllers.",
+  "mappings": [
+    { "wii": "a", "controller": ["triangle", "y", "x"] },
+    { "wii": "1", "controller": ["square", "x", "a"] },
+    { "wii": "2", "controller": ["cross", "a", "b"] },
+    { "wii": "dpad", "controller": ["", "y", "x"] }
+  ],
+  "motion": [
+    { "wii": "Tilt", "controllers": ["L2/R2", "LT/RT", "ZL/ZR"] },
+    { "wii": "Shake", "controllers": ["R1", "RB", "R"] }
+  ]
+}
