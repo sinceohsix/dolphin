@@ -1,15 +1,41 @@
 {
   "id": "SMNE01",
   "name": "New Super Mario Bros. Wii",
-  "version": 1,
   "players": 4,
-  "controllers": {
-    "macos": [
-      "DualSense Wireless Controller",
-      "Nintendo Switch Pro Controller",
-      "Xbox Series X Controller",
-      "8BitDo SN30 Pro",
-      "Nintendo Switch Joy-Con (Pair)"
-    ]
+  "textures": {
+    "hd": { 
+      "name": "New Super Mario Bros. Wii HD Texture Pack",
+      "note": "",
+      "source": "https://forums.dolphin-emu.org/Thread-new-super-mario-bros-wii-hd-texture-pack-v2-81-september-18-2023",
+      "author": "Bighead",
+      "authorLink": "https://forums.dolphin-emu.org/User-bighead",
+      "download": ""
+    },
+    "nymo": {
+      "name": "nymo’s HD HUD Tweaks",
+      "note": "",
+      "source": "nymo642",
+      "author": "nymo642",
+      "authorLink": "https://gamebanana.com/members/2380576",
+      "download": "https://gamebanana.com/dl/1092375"
+    }
+  },
+  "mods": {
+    "newer": {
+      "name": "Newer Super Mario  Bros. Wii",
+      "description": "Newer is a full unofficial sequel to New Super Mario Bros. Wii, crafted over the span of 3 years by a team of devoted Nintendo fans. Playable legally on any homebrew-enabled Wii; no piracy or hardware mods needed.",
+      "source": "https://newerteam.com/wii/",
+      "author": "Newer Team",
+      "authorLink": "https://newerteam.com",
+      "download": ""
+    },
+    "summer": {
+      "name": "Newer Summer Sun",
+      "description": "Newer: Summer Sun is a short game with a hot theme, originally released in Summer 2012. It features 23 new levels and some fresh music!",
+      "source": "https://newerteam.com/wii/specials.html",
+      "author": "Newer Team",
+      "authorLink": "https://newerteam.com",
+      "download": ""
+    }
   }
 }
