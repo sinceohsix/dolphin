@@ -1,7 +1,9 @@
 {
   "version": 1,
   "games": {
-    "SMNE01": { "version": 1, "title": "New Super Mario Bros. Wii", "id": "SMNE01", "players": 4, "type": "sideways" }
+    "SMNE01": { "version": 1, "title": "New Super Mario Bros. Wii", "id": "SMNE01", "players": 4, "type": "sideways" },
+    "R7PE01": { "version": 1, "title": "Punch-Out!!", "id": "R7PE01", "players": 2, "type": "sideways" },
+    "R8PE01": { "version": 1, "title": "Super Paper Mario", "id": "R8PE01", "players": 1, "type": "sideways" }
   },
   "controllers": {
     "macos": ["DualSense Wireless Controller", "Nintendo Switch Pro Controller", "Xbox Series X Controller", "8BitDo SN30 Pro"]
