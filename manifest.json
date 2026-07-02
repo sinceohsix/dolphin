@@ -1,7 +1,7 @@
 {
   "version": 1,
   "games": {
-    "SMNE01": { "version": 1, "title": "New Super Mario Bros. Wii", "id": "SMNE01", "players": 4 }
+    "SMNE01": { "version": 1, "title": "New Super Mario Bros. Wii", "id": "SMNE01", "players": 4, "type": "sideways" }
   },
   "controllers": {
     "macos": ["DualSense Wireless Controller", "Nintendo Switch Pro Controller", "Xbox Series X Controller", "8BitDo SN30 Pro"]
