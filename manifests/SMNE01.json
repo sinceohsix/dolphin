@@ -2,7 +2,7 @@
   "id": "SMNE01",
   "name": "New Super Mario Bros. Wii",
   "players": 4,
-  "type": "sideways"
+  "type": "sideways",
   "textures": {
     "hd": { 
       "name": "New Super Mario Bros. Wii HD Texture Pack",
