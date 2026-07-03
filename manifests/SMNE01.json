@@ -10,15 +10,19 @@
       "source": "https://forums.dolphin-emu.org/Thread-new-super-mario-bros-wii-hd-texture-pack-v2-81-september-18-2023",
       "author": "Bighead",
       "authorLink": "https://forums.dolphin-emu.org/User-bighead",
-      "download": ""
+      "downloads": [
+        { "name": "New Super Mario Bros. Wii HD Texture Pack v2.81", "size": "26 MB", "download": "https://github.com/sinceohsix/bin/releases/download/nsmbwhd/NSMBW_HD_v2.81.zip" }
+      ]
     },
     "nymo": {
       "name": "nymo’s HD HUD Tweaks",
       "note": "",
-      "source": "nymo642",
+      "source": "https://gamebanana.com/mods/480785",
       "author": "nymo642",
       "authorLink": "https://gamebanana.com/members/2380576",
-      "download": "https://gamebanana.com/dl/1092375"
+      "downloads": [
+        { "name": "HD HUD Tweaks", "size": "367 KB", "download": "https://gamebanana.com/dl/1092375" }
+      ]
     }
   },
   "mods": {
@@ -28,15 +32,12 @@
       "source": "https://newerteam.com/wii/",
       "author": "Newer Team",
       "authorLink": "https://newerteam.com",
-      "download": ""
-    },
-    "summer": {
-      "name": "Newer Summer Sun",
-      "description": "Newer: Summer Sun is a short game with a hot theme, originally released in Summer 2012. It features 23 new levels and some fresh music!",
-      "source": "https://newerteam.com/wii/specials.html",
-      "author": "Newer Team",
-      "authorLink": "https://newerteam.com",
-      "download": ""
+      "download": {
+        "name": "Newer Super Mario Bros. Wii",
+        "size": "473.3 MB",
+        "download": "https://github.com/sinceohsix/bin/releases/download/newer/Newer_W_1.30.zip",
+        "version": "1" 
+      }
     }
   }
 }
