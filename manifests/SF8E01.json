@@ -1,0 +1,24 @@
+{
+  "id": "SF8E01",
+  "name": "Donkey Kong Country Returns",
+  "players": 2,
+  "type": "sideways",
+  "textures": {
+    "punchout-hd": { 
+      "name": "Donkey Kong Country Returns HD Textures Mod [v1.4]",
+      "description": "I'm releasing my HD texture pack for Donkey Kong Country Returns.\nThis Pack has all HUD elements, DK/DD textures, all controllers (Wii/PS/Xbox), items, backgrounds, mipmaps, fonts and generally what needs retexturing for HD resolutions.\n\nIt contains more than 1570 reworked/redrawn/rescaled textures.",
+      "note": "",
+      "source": "https://forums.dolphin-emu.org/Thread-wii-fhd-donkey-kong-country-returns-hd-textures-mod-v1-4",
+      "author": "CTCaer",
+      "authorLink": "https://forums.dolphin-emu.org/User-ctcaer",
+      "downloads": [
+        { "name": "v1.4 (DDS - Lossy Compressed)", "size": "332 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/SF8E01/Default_DDS.zip" },
+        { "name": "v1.4 - Super Kongs (DDS - Lossy Compressed)", "size": "332 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/SF8E01/Default_DDS.zip" }
+      ],
+      "screenshots": [ "http://ctcaer.com/wii/dkcr/prjname.jpg", "http://ctcaer.com/wii/dkcr/SuperDD.jpg", "http://ctcaer.com/wii/dkcr/cranky-HD.jpg", "http://ctcaer.com/wii/dkcr/island-HD.jpg", "http://ctcaer.com/wii/dkcr/island2-HD.jpg", "http://ctcaer.com/wii/dkcr/level_end-HD.jpg" ]
+    }
+  },
+  "mods": {
+    
+  }
+}

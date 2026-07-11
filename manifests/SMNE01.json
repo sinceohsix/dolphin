@@ -4,29 +4,33 @@
   "players": 4,
   "type": "sideways",
   "textures": {
-    "hd": { 
+    "nsmbw-hd": { 
       "name": "New Super Mario Bros. Wii HD Texture Pack",
+      "description": "So far I think the entire UI has been retextured, along with some in-game stuff. All textures are created as uncompressed DDS so they match PNG in quality.",
       "note": "",
       "source": "https://forums.dolphin-emu.org/Thread-new-super-mario-bros-wii-hd-texture-pack-v2-81-september-18-2023",
       "author": "Bighead",
       "authorLink": "https://forums.dolphin-emu.org/User-bighead",
       "downloads": [
-        { "name": "New Super Mario Bros. Wii HD Texture Pack v2.81", "size": "26 MB", "download": "https://github.com/sinceohsix/bin/releases/download/nsmbwhd/NSMBW_HD_v2.81.zip" }
-      ]
+        { "name": "New Super Mario Bros. Wii HD Texture Pack v2.81", "size": "26 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/SMNE01/NSMBW_HD_v2.81.zip" }
+      ],
+      "screenshots": [ "https://i.imgur.com/oEXvIK7.png", "https://i.imgur.com/NNba4rq.png" ]
     },
-    "nymo": {
+    "nymo-hd": {
       "name": "nymo’s HD HUD Tweaks",
-      "note": "",
+      "description": "Replaced a handful of UI elements with higher resolution versions. Many textures (like the coin/star coin icon) have been sourced from New Super Mario Bros. U Deluxe, and text/font have been upscaled x3 via waifu2x. Mario's life icon was also sourced from the Nvidia shield release.",
+      "note": "This texture pack is meant to be applied on top of the other HD texture pack.",
       "source": "https://gamebanana.com/mods/480785",
       "author": "nymo642",
       "authorLink": "https://gamebanana.com/members/2380576",
       "downloads": [
         { "name": "HD HUD Tweaks", "size": "367 KB", "download": "https://gamebanana.com/dl/1092375" }
-      ]
+      ],
+      "screenshots": [ "https://images.gamebanana.com/img/ss/mods/530-90_656082cfdff16.jpg", "https://images.gamebanana.com/img/ss/mods/656083d5ce049.jpg", "https://images.gamebanana.com/img/ss/mods/656083d60c7f0.jpg" ]
     }
   },
   "mods": {
-    "newer": {
+    "newerwii": {
       "name": "Newer Super Mario  Bros. Wii",
       "description": "Newer is a full unofficial sequel to New Super Mario Bros. Wii, crafted over the span of 3 years by a team of devoted Nintendo fans. Playable legally on any homebrew-enabled Wii; no piracy or hardware mods needed.",
       "source": "https://newerteam.com/wii/",
@@ -37,7 +41,8 @@
         "size": "473.3 MB",
         "download": "https://github.com/sinceohsix/bin/releases/download/newer/Newer_W_1.30.zip",
         "version": "1" 
-      }
+      },
+      "screenshots": [ "https://newerteam.com/wii/img/screens/s1.jpg", "https://newerteam.com/wii/img/screens/s2.jpg", "https://newerteam.com/wii/img/screens/s3.jpg" ] 
     }
   }
 }

@@ -4,7 +4,18 @@
   "players": 2,
   "type": "sideways",
   "textures": {
-
+    "punchout-hd": { 
+      "name": "plusnine's Punch-Out!! Wii HD-Ready Project",
+      "description": "Having familiarized myself with Dolphin's texture dumping process, I thought i'd take a crack at one of my favorites for the Wii, Punch-Out!! For the most part the game already looks fantastic in 1080p and true to the NES and SNES classics, it plays like a total dream and is a fun challenge for players who like boxing games.\n\nI am working with the NA version of the game (R7PE01), and have not tested it with any other editions.\n\nOriginally, I intended to only grapple with the title screen, UI, and HUD, but after seeing the textures all stream in one by one, I ended up giving most of the in-game particle effects a nice scale-up, too. I also started replacing character portraits to match the spiffy new UI theme, and did a few things to upgrade the arenas and a few other odds and ends.",
+      "note": "",
+      "source": "https://forums.dolphin-emu.org/Thread-plusnine-s-punch-out-wii-hd-ready-project-updated-september-8-2016",
+      "author": "plusnine",
+      "authorLink": "https://forums.dolphin-emu.org/User-plusnine",
+      "downloads": [
+        { "name": "Version 0.6", "size": "96 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/R7PE01/R7PE01.zip" }
+      ],
+      "screenshots": [ "https://i.imgur.com/U05bV8c.png" ]
+    }
   },
   "mods": {
     

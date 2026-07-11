@@ -1,0 +1,16 @@
+{
+  "id": "R8PE01",
+  "type": "sideways",
+  "note": "DualSense and DualShock controllers can use the touchpad for the pointer, otherwise, hold R2 to show the pointer and use the right stick to control it.",
+  "mappings": [
+    { "action": "Navigate UI/Move", "wii": "dpad", "controller": ["lstick", "lstick", "lstick"] },
+    { "action": "Select/Jump", "wii": "2", "controller": ["cross", "a", "a"] },
+    { "action": "Back/Use Pixl", "wii": "1", "controller": ["circle", "b", "b"] },
+    { "action": "Flip Dimensions (as Mario)", "wii": "a", "controller": ["triangle", "y", "x"] },
+    { "action": "Show Pointer (Tippi)", "wii": "pointer", "controller": ["touchpad", "rt", "zr"] },
+    { "action": "Move Pointer (Tippi)", "wii": "pointer", "controller": ["touchpad", "rstick", "rstick"] },
+    { "action": "Select Highlighted (Tippi)", "wii": "a", "controller": ["touchpad", "a/rs", "a/r3"] },
+    { "action": "Quick Menu", "wii": "1+2", "controller": ["square", "x", "y"] },
+    { "action": "Open Menu", "wii": "plus", "controller": ["options", "menu", "plus"] }
+  ]
+}
