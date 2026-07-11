@@ -15,7 +15,7 @@
         { "name": "v1.4 (DDS - Lossy Compressed)", "size": "332 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/SF8E01/Default_DDS.zip" },
         { "name": "v1.4 - Super Kongs (DDS - Lossy Compressed)", "size": "332 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/SF8E01/Default_DDS.zip" }
       ],
-      "screenshots": [ "http://ctcaer.com/wii/dkcr/prjname.jpg", "http://ctcaer.com/wii/dkcr/SuperDD.jpg", "http://ctcaer.com/wii/dkcr/cranky-HD.jpg", "http://ctcaer.com/wii/dkcr/island-HD.jpg", "http://ctcaer.com/wii/dkcr/island2-HD.jpg", "http://ctcaer.com/wii/dkcr/level_end-HD.jpg" ]
+      "screenshots": [ "https://ctcaer.com/wii/dkcr/prjname.jpg", "https://ctcaer.com/wii/dkcr/SuperDD.jpg", "https://ctcaer.com/wii/dkcr/cranky-HD.jpg", "https://ctcaer.com/wii/dkcr/island-HD.jpg", "https://ctcaer.com/wii/dkcr/island2-HD.jpg", "https://ctcaer.com/wii/dkcr/level_end-HD.jpg" ]
     }
   },
   "mods": {
