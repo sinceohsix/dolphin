@@ -12,7 +12,7 @@
       "author": "Bighead",
       "authorLink": "https://forums.dolphin-emu.org/User-bighead",
       "downloads": [
-        { "name": "New Super Mario Bros. Wii HD Texture Pack v2.81", "size": "26 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/SMNE01/NSMBW_HD_v2.81.zip" }
+        { "id": "default", "name": "New Super Mario Bros. Wii HD Texture Pack v2.81", "size": "26 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/SMNE01/NSMBW_HD_v2.81.zip" }
       ],
       "screenshots": [ "https://i.imgur.com/oEXvIK7.png", "https://i.imgur.com/NNba4rq.png" ]
     },
@@ -24,7 +24,7 @@
       "author": "nymo642",
       "authorLink": "https://gamebanana.com/members/2380576",
       "downloads": [
-        { "name": "HD HUD Tweaks", "size": "367 KB", "download": "https://gamebanana.com/dl/1092375" }
+        { "id": "default", "name": "HD HUD Tweaks", "size": "367 KB", "download": "https://gamebanana.com/dl/1092375" }
       ],
       "screenshots": [ "https://images.gamebanana.com/img/ss/mods/530-90_656082cfdff16.jpg", "https://images.gamebanana.com/img/ss/mods/656083d5ce049.jpg", "https://images.gamebanana.com/img/ss/mods/656083d60c7f0.jpg" ]
     }

@@ -12,7 +12,7 @@
       "author": "plusnine",
       "authorLink": "https://forums.dolphin-emu.org/User-plusnine",
       "downloads": [
-        { "name": "Version 0.6", "size": "96 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/R7PE01/R7PE01.zip" }
+        { "id": "default", "name": "Version 0.6", "size": "96 MB", "download": "https://github.com/sinceohsix/dolphin-hd/releases/download/R7PE01/R7PE01.zip" }
       ],
       "screenshots": [ "https://i.imgur.com/U05bV8c.png" ]
     }
